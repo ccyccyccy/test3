@@ -1,0 +1,3 @@
+[submodule "testrepo-Submodule"]
+	path = testrepo-Submodule
+	url = git@github.com:reposense/testrepo-Submodule.git
